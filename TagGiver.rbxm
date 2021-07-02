@@ -1,0 +1,41 @@
+<roblox!‰ÿ
+
+                META$   "       ð      ExplicitAutoJoints   trueINST          ð       LocalScript       
+INST          ð      ObjectValue       INST          ð      RemoteEvent       INST          ð   	   ScreenGui       INST          ð      Script        INST          ð   
+   TextButton       INST          ð
+      UICorner       PROP"           ð       AttributesSerialize    PROP          ð       Disabled PROP          ð
+       LinkedSource    PROP          ð       Name   LocalScriptPROP?   =       ð.    
+   ScriptGuid&   {A5B0E4FA-1C3F-4C4C-810D-B22F04C2D948}PROP  ?      òS       Source,  local event = game:GetService("ReplicatedStorage"):FindFirstChild("TagRemote")
+O òon = "Owner"
+
+script.Parent.TextButton.Mouse ñ1Click:Connect(function()
+	ifP Q  then
+		´ P:Fire® Àer("VIP")
+		/   f
+	elseB  " @ ± B   
+	end
+end)PROP           ð       SourceAssetId       PROP          ð       Tags    PROP"           ð      AttributesSerialize    PROP          ð      Name   EventPROP           ð      SourceAssetId       PROP          ð      Tags    PROP          ð      Value   PROP"           ð      AttributesSerialize    PROP          ð      Name	   TagRemotePROP           ð      SourceAssetId       PROP          ð      Tags    PROP"           ð      AttributesSerialize    PROP          ð      AutoLocalizePROP          ð
+      DisplayOrder    PROP          ð      Enabled PROP          ð	      IgnoreGuiInset PROP          ð      Name	   ScreenGuiPROP          ð      ResetOnSpawnPROP$   "       ð      RootLocalizationTable   PROP           ð      SourceAssetId       PROP          ð      Tags    PROP          ð      ZIndexBehavior   PROP"           ð      AttributesSerialize    PROP          ð      Disabled PROP          ð
+      LinkedSource    PROP          @    ðName   TagGiverPROP?   =       ð.   
+   ScriptGuid&   {C0C7A3E0-7509-46E5-83E2-9A3CEE65F7C9}PROPÆ  I      ñ5      Source6  --The button's in the screen gui and you can move  ñremote whereever" ðwant.
+
+local chatService = require(game. terScrip# ö:WaitForChild("C= Runner")" 3"))t pevent =¾ Pipt.E d.Value– àtags = {
+	["OwY ] `TagTex; ñ"OWNER", TagColor =  ñ3.fromRGB(255, 183 0)},L =VIPJ   H 0F A
+}
+
+Á 2.On"À ò:Connect(function(plr, tag)
+	k`speakeª uR:GetS  2  .Name)
+	if; `s[tag]ÊCn
+		@ ð:SetExtraData("Tags",{2. Ð})
+	end
+end)
+PROP           ð      SourceAssetId       PROP          @    Tags    PROP          ð      ActivePROP          ð      AnchorPoint        PROP"           ð      AttributesSerialize    PROP          ð
+      AutoButtonColorPROP          ð      AutoLocalizePROP          ð      AutomaticSize    PROP'   %       ð      BackgroundColor3         PROP%   #       ð      BackgroundTransparency    PROP#   !       ð      BorderColor3{±±´|QQR|©©¬PROP          ð   
+   BorderMode    PROP          ð      BorderSizePixel   PROP          ð      ClipsDescendants PROP          ð   	   Draggable PROP          ð      Font   PROP          ð	      LayoutOrder    PROP          ð   
+   LineHeight   PROP"           ð      MaxVisibleGraphemes   PROP          ð       Modal PROP          ð      Name
+   TextButtonPROP           ð      NextSelectionDown   PROP           ð      NextSelectionLeft   PROP!          ð      NextSelectionRight   PROP          ð      NextSelectionUp   PROP#   !       ð      Position~|~²¢H        PROP          ð      RichText PROP$   "       ð      RootLocalizationTable   PROP          ð      Rotation    PROP          ð   
+   SelectablePROP          ð      Selected PROP#   !       ð      SelectionImageObject   PROP          å      Size  `   dPROP          ð      SizeConstraint    PROP           ð      SourceAssetId       PROP          @     Style    PROP          ð      Tags    PROP          ð      Text   TogglePROP!          ð   
+   TextColor3            PROP          ð   
+   TextScaledPROP          ð      TextSize‚À  PROP'   %       ð      TextStrokeColor3            PROP%   #       ð      TextStrokeTransparency   PROP          ð      TextTransparency    PROP          ð
+      TextTruncate    PROP          ð      TextWrappedPROP          ð      TextXAlignment   PROP          ð      TextYAlignment   PROP          ð      VisiblePROP          ð      ZIndex   PROP"           ð      AttributesSerialize    PROP          ð      CornerRadius{™™š    PROP          ð
+      Name   UICornerPROP           ð      SourceAssetId       PROP          ð      Tags    PRNT   =       ?    `  END     	       </roblox>
